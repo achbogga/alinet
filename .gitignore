@@ -69,20 +69,8 @@ target/
 # IPython Notebook
 .ipynb_checkpoints
 
-# Numpy data files
-.npy
-
-# general data files
-.h5
-
 # pyenv
 .python-version
-
-#tar balls
-.tar.gz
-
-# fer folder
-fer2013/
 
 # celery beat schedule file
 celerybeat-schedule
@@ -99,3 +87,8 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+.npy
+.h5
+.tar.gz
+fer2013/
