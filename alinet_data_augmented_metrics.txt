@@ -1,7 +1,0 @@
-
-loss: 1.83117636767
-accuracy: 0.272727272727
-Optimizer, epochs: sgd_initlr=0.01, 200
-loss: 3.52581855023
-accuracy: 0.0909090909091
-Optimizer, epochs: sgd_initlr=0.01, 300
