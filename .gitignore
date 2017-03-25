@@ -73,12 +73,16 @@ target/
 .npy
 
 # general data files
-.csv
 .h5
-.xml
-.gz
+
 # pyenv
 .python-version
+
+#tar balls
+.tar.gz
+
+# fer folder
+fer2013/
 
 # celery beat schedule file
 celerybeat-schedule
