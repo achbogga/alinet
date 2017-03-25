@@ -76,7 +76,7 @@ target/
 .csv
 .h5
 .xml
-
+.gz
 # pyenv
 .python-version
 
